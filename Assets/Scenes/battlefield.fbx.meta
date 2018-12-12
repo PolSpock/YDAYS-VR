@@ -62,6 +62,8 @@ ModelImporter:
     2100000: lambert1
     2100002: house_anisotropic2
     2100004: house_anisotropic1
+    2100006: lambert4
+    2100008: lambert5
     2300000: house:pPlane1
     2300002: house:pPlane5
     2300004: pPlane2

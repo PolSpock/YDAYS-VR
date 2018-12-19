@@ -61,7 +61,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\com\heparo\terrain\toolkit\scripts\TerrainToolkit.cs" />
     <Compile Include="Assets\Object2Terrain.cs" />
+    <Compile Include="Assets\Soldier\soldier.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_TestThrow.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_TestTrackedCamera.cs" />
@@ -226,6 +228,16 @@
     <Compile Include="Assets\SteamVR_Input\ActionObjects\SteamVR_Input_ActionSet_platformer_In.cs" />
     <Compile Include="Assets\SteamVR_Input\SteamVR_Input_Actions.cs" />
     <Compile Include="Assets\SteamVR_Input\SteamVR_Input_ActionSets.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\2DTools\Scripts\Camera2DFollow.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\2DTools\Scripts\CircleMoverSample.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Example Data\Scripts\PlayerHoverController.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Example Data\Scripts\SimpleSmoothMouseLook.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Scripts\ForceGrassDistanceInEditor.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Scripts\KeepOnSurface.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Scripts\PlaceOnSurfaceAtStart.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Scripts\SpawnInArea.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Scripts\TerrainQualitySettings.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Scripts\TreeExplosion.cs" />
     <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
     <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />

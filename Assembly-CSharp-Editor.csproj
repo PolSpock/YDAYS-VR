@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\com\heparo\terrain\toolkit\editor\TerrainToolkitEditor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Preferences.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />
@@ -86,6 +87,13 @@
     <Compile Include="Assets\SteamVR\Input\Editor\SteamVR_Input_Generator.cs" />
     <Compile Include="Assets\SteamVR\Input\Editor\SteamVR_Input_LiveWindow.cs" />
     <Compile Include="Assets\SteamVR\Input\Editor\SteamVR_Input_PostProcessBuild.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\2DTools\Editor\TTTools2D.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Editor\ClearWaterLevel.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Editor\IncrementalSplatmapping.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Editor\PlaceOnTerrain.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Editor\RandomObjectMap.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Editor\SplatMapGenerator.cs" />
+    <Compile Include="Assets\Tom's Terrain Tools\Editor\TerrainTools.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Row/Documents/Cours/EXP VR/YDAYS-VR/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

@@ -11,7 +11,7 @@ public class soldier : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Animation idle = GetComponent<Animation>();
-        idle.Play("Rifle Idle");
+        Animation animations = GetComponent<Animation>();
+        animations.Play("Rifle Idle");
 	}
 }

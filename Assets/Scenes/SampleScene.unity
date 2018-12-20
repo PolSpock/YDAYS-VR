@@ -673,7 +673,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4006066165032748, guid: f68cd5c3dd248974eb7c6399a7b18625, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 98.21937
+      value: 98.24
       objectReference: {fileID: 0}
     - target: {fileID: 4006066165032748, guid: f68cd5c3dd248974eb7c6399a7b18625, type: 2}
       propertyPath: m_LocalPosition.z
@@ -1102,7 +1102,7 @@ Transform:
   m_Children:
   - {fileID: 741184303}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!136 &711114790
 CapsuleCollider:

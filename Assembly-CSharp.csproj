@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\com\heparo\terrain\toolkit\scripts\TerrainToolkit.cs" />
     <Compile Include="Assets\Object2Terrain.cs" />
+    <Compile Include="Assets\ParentedPickup.cs" />
     <Compile Include="Assets\Scenes\Attack Helicopter2\AIHelico.cs" />
     <Compile Include="Assets\Scenes\Attack Helicopter2\Helico.cs" />
     <Compile Include="Assets\Soldier\soldier.cs" />
